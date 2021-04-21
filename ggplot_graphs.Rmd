@@ -1,7 +1,5 @@
 ---
 title: "ggplot Graphs"
-author: "Joschka Schwarz"
-date: "Nov 5, 2020"
 output: html_document
 ---
 

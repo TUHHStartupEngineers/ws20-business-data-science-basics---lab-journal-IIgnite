@@ -1,6 +1,5 @@
 ---
 title: "Data Wrangling"
-date: "Nov 5, 2020"
 output: html_document
 ---
 
